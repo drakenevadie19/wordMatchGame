@@ -1,0 +1,12 @@
+  TechStack: 
+  - Front-end: 
+    - Next.js
+    - React.js
+    - Tailwind
+  - Back-end
+    - Spring boot
+    - Kafka
+    - GraphQL
+  - DataBase: 
+    - PostgreSQL 
+    - SQL
