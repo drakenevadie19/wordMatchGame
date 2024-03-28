@@ -1,8 +1,6 @@
   TechStack: 
   - Front-end: 
-    - Next.js
-    - React.js
-    - Tailwind
+    - Angular.js
   - Back-end
     - Spring boot
     - Kafka
